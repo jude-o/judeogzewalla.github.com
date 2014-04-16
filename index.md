@@ -4,9 +4,6 @@ title: Main Navigation
 tagline: Supporting tagline
 ---
 
-Main Navigation
-===============
-
 The ContentsTrack webpage is divided into three parts; a title bar, a
 navigation bar, and a content area where specific page content is
 loaded.
